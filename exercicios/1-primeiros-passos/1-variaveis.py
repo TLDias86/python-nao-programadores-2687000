@@ -9,3 +9,6 @@ print (nome)
 idade = '38'
 print (idade)
 # Declare uma variável do tipo booleano
+verdadeiro = True
+falso = False
+print (falso)
